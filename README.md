@@ -25,6 +25,9 @@ to power Hugging Chat, the Inference API and Inference Endpoints.
 
 ## Table of contents
 
+- [Text Generation Inference](#text-generation-inference)
+  - [Table of contents](#table-of-contents)
+    - [Hardware support](#hardware-support)
   - [Get Started](#get-started)
     - [Docker](#docker)
     - [API documentation](#api-documentation)
@@ -348,3 +351,4 @@ make rust-tests
 # integration tests
 make integration-tests
 ```
+#Jyothi
